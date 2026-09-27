@@ -1,1 +1,1 @@
-Built-in image_gen edit: preserve approved panorama and yellow wave; replace old circular logo with supplied no-sun logo including complete Czech subtitle; replace lower exterior white area with navy; preserve white logo circle. Final image: dist/assets/uvodni-cover-final.png.
+Built-in image_gen edit: preserve approved panorama and yellow wave; replace old circular logo with supplied no-sun logo including complete Czech subtitle; replace lower exterior white area with navy; preserve white logo circle. Final image: assets/uvodni-cover-final.png.

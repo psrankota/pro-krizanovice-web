@@ -1,6 +1,6 @@
 from pathlib import Path
 from html import escape
-root=Path(__file__).parent/'dist'
+root=Path(__file__).parent
 projects=[
 ('radar','Doprava','Radar na Zámostku','Příprava je téměř u konce. Nyní čekáme na vyjádření dotčených orgánů. Chceme navázat na dosavadní práci a projekt dotáhnout do konce.',None),
 ('skolka','Veřejný prostor','Okolí školky','Budeme pokračovat ve zvelebování prostoru kolem mateřské školy: navazující úpravy včetně obrubníků, výsadba zeleně a úpravy parkovacích míst.',None),
