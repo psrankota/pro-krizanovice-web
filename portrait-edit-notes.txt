@@ -1,0 +1,2 @@
+Built-in image_gen. Prompt used for each of nine source portraits: Replace only the background with uniform pale blue-gray #e8eef5. Preserve identity, facial features, expression, hair, clothing and pose. No beautification. Square head-and-shoulders framing suitable for circular CSS crop; entire hair visible. No text or graphics.
+Outputs: dist/assets/kandidat-1-uniform.webp through kandidat-9-uniform.webp. Original portraits retained.
