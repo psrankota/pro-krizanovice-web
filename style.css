@@ -40,3 +40,5 @@ footer .facebook-logo{width:180px;height:128px}
 header .header-logo{display:block;width:350px;max-width:100%;height:auto;aspect-ratio:3/1;object-fit:contain}
 header .brand{min-width:0;flex-shrink:1}
 @media(max-width:640px){header .header-logo{width:270px}header{row-gap:8px;padding-top:6px;padding-bottom:12px}}
+
+footer{justify-content:flex-end;align-items:flex-end}
